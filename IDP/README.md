@@ -14,24 +14,21 @@ can be used as a tracking document.
 
 Goals that can / should be accomplished in the next 3-6 months.
 
-### Some goal
+### B. Infantis Salt Tolerance Genes 
 
-Here's a description of my goal.
+Find & note relevant salt tolerance genes in the B. Infantis genome
+BLAST searches in NCBI to other genomes 
+Practice other annotation tools: prokka, all the bacteria 
 
-- [ ] A sub-goal with a checkmark and [a link](https://example.com)
+### Develop an Understanding of Shuttle Vectors
 
-### Another goal
-
-Another description, with some details about plans
+Read and take notes on this paper: https://bonhamlab.zulipchat.com/user_uploads/35299/Hz4uJwsu5A40vCunKgLvTAZn/Kozakai-et-al.-2024-An-improved-temperature-sensitive-shuttle-vector-system-for-scarless-gene-deletion-in-human-gut-asso.pdf
 
 ## Long-term goals
 
-Goals that may take a year or more to accomplish.
+Become more comfortable with wet lab skills, and develop an understanding of using the computer terminal. 
 
 ## Career goals
 
-This section should describe what your long-term career aspirations are.
-Almost no one in the lab should expect to be in the Bonham Lab for the rest of their career,
-and knowing what you think you want to do next (even if there are many possiblities or no clear ideas)
-can help Kevin to provide mentorship and resources to support your development.
+
 
