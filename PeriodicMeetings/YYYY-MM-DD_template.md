@@ -1,22 +1,29 @@
 # Periodic Meeting Notes
 
-## What I accomplished last week
+## What I accomplished last week 
 
-[Link to last meeting notes](./YYYY-MM-DD.md)<!-- Edit this link to the date of the last meeting -->
 
-- [x] Thing 1
-- [x] Thing 2
+- [x] Downloaded Annotated B. Infantis Genome from NCBI into Geneious
+- [ ] Identified relevant salt tolerance genes in the B. Infantis genome (cross-referenced with a list from the research grant
+- [ ] BLAST
+- [ ] Familiarized myself with the shuttle vector system (from given readings) 
 
 ### Notes
 
-Any further explanation / links
+Relevant links: 
+
+https://bonhamlab.zulipchat.com/user_uploads/35299/A61SRxOIHESouS652MDV_Jfl/Salt-Tolerance-Genes.pdf
+
+https://bonhamlab.zulipchat.com/user_uploads/35299/aNxQ5nzNbDAzSHs6oQ5SlEOE/Osmoprotectant-genes.pdf
+
+https://bonhamlab.zulipchat.com/user_uploads/35299/Hz4uJwsu5A40vCunKgLvTAZn/Kozakai-et-al.-2024-An-improved-temperature-sensitive-shuttle-vector-system-for-scarless-gene-deletion-in-human-gut-asso.pdf
+
+https://bonhamlab.zulipchat.com/user_uploads/35299/r38Y8v-L7A3u-_KdvXwfcmVu/Altaib-et-al.-2022-Bifidobacterium-Escherichia-coli-Shuttle-Vector-Series-pKO403-with-Temperature-Sensitive-Replicatio.pdf
 
 ## What I plan to do next week
 
-<!-- Note: For longer-term goals or tasks, also add to project notes or to appropriate project repository -->
-
-- [ ] Thing 3
-- [ ] Thing 4
+- [ ] 
+- [ ] 
 
 ### Notes
 
@@ -24,7 +31,6 @@ Any further explanation / links
 
 ## Is there anything that Kevin can help with?
 
-<!-- Note: If applicable -->
 
 ## Periodic survey
 
