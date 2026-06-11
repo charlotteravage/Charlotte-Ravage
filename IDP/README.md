@@ -12,8 +12,6 @@ can be used as a tracking document.
 
 ## Short-term goals
 
-Goals that can / should be accomplished in the next 3-6 months.
-
 ### B. Infantis Salt Tolerance Genes 
 
 Find & note relevant salt tolerance genes in the B. Infantis genome
