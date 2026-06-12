@@ -1,6 +1,6 @@
 # Periodic Meeting Notes
 
-## What I accomplished last week 
+## What I accomplished this week 
 
 
 - [x] Downloaded Annotated B. Infantis Genome from NCBI into Geneious
