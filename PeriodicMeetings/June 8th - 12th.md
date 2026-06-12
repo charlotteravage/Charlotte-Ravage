@@ -4,9 +4,10 @@
 
 
 - [x] Downloaded Annotated B. Infantis Genome from NCBI into Geneious
-- [ ] Identified relevant salt tolerance genes in the B. Infantis genome (cross-referenced with a list from the research grant
+- [x] Identified relevant salt tolerance genes in the B. Infantis genome (cross-referenced with a list from the research grant
+- [x] Noted the functions of all of the noted genes and how they relate to salt tolerance in B. Infantis
 - [ ] BLAST to other species genomes 
-- [ ] Familiarized myself with the shuttle vector system (from given readings) 
+- [x] Familiarized myself with the shuttle vector system (from given readings) 
 
 ### Notes
 
