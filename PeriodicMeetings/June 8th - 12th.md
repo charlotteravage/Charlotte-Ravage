@@ -23,8 +23,9 @@ https://bonhamlab.zulipchat.com/user_uploads/35299/r38Y8v-L7A3u-_KdvXwfcmVu/Alta
 
 ## What I plan to do next week
 
-- [ ] 
-- [ ] 
+- [ ] Finish researching the genes
+- [ ] Start exploring the how the shuttle vector system will work with these salt tolerance genes
+- [ ] Discuss with Irem how to begin designing the protocol 
 
 ### Notes
 
