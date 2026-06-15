@@ -6,6 +6,7 @@
 
 ### Notes
 
+→ More details in the Obsidian Vault (My Lab notebook) 
 
 ## What I plan to do next week
 
