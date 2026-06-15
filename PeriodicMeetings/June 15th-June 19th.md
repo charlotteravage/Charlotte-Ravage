@@ -5,7 +5,7 @@
 - [ ] BLAST to other species genomes
 - [ ] Practice using https://nebcloner.neb.com/#!/ tools to clone up various salt genes found on ATCC 15697 (identified last week) with primers that add Sapl restriction sites flanking it (primers have sequence homology to genes of interest at the ends and Sapl sites)
 - [x] Watch videos/Read about restriction cloning and golden gate assembly
-- [ ] Visualize golden gate assembly in the B Infantis study system
+- [x] Visualize golden gate assembly in the B Infantis study system
 
 ### Notes
 
