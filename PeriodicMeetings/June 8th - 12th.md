@@ -21,7 +21,7 @@ https://bonhamlab.zulipchat.com/user_uploads/35299/Hz4uJwsu5A40vCunKgLvTAZn/Koza
 
 https://bonhamlab.zulipchat.com/user_uploads/35299/r38Y8v-L7A3u-_KdvXwfcmVu/Altaib-et-al.-2022-Bifidobacterium-Escherichia-coli-Shuttle-Vector-Series-pKO403-with-Temperature-Sensitive-Replicatio.pdf
 
---> More details in the Obsidian Vault (My personal lab notebook) 
+&rarr More details in the Obsidian Vault (My personal lab notebook) 
 
 ## What I plan to do next week
 
