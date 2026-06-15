@@ -2,7 +2,8 @@
 ## What I accomplished this week 
 
 - [x] Finish noting the functions of all of salt tolerance genes and how they relate to salt tolerance in B. Infantis
-- [ ] BLAST to other species genomes 
+- [ ] BLAST to other species genomes
+- [ ] Shuttle Vector system - application to B. Infantis 
 
 ### Notes
 
