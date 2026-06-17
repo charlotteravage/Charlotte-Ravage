@@ -7,7 +7,7 @@
 - [x] Watch videos/Read about restriction cloning and golden gate assembly
 - [x] Visualize golden gate assembly in the B Infantis study system
 - [ ] Mind map the entire methodology
-- [ ] Design PCR protocols (w/ correct temperatures)
+- [ ] Design PCR protocols (w/ temperatures)
 
 ### Notes
 [Golden Gate Assembly Visualization - B. Infantis Salt Gene.pdf](https://github.com/user-attachments/files/28969541/Golden.Gate.Assembly.Visualization.-.B.Infantis.Salt.Gene.pdf)
