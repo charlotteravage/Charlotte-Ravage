@@ -12,7 +12,7 @@
 ### Notes
 [Golden Gate Assembly Visualization - B. Infantis Salt Gene.pdf](https://github.com/user-attachments/files/28969541/Golden.Gate.Assembly.Visualization.-.B.Infantis.Salt.Gene.pdf)
 
-→ More details in the Obsidian Vault (My Lab notebook) 
+→ More details in the my Lab notebook in Obsidian 
 
 ## What I plan to do next week
 
