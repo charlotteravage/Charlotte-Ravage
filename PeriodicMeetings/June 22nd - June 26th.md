@@ -1,13 +1,12 @@
 #  Periodic Meeting & Week Notes 
 ## What I accomplished this week 
 
-- [ ] BLAST to other species genomes
 - [ ] Mind map the entire methodology
 - [ ] Design PCR protocols (w/ temperatures)
 - [ ] Explore Snap Gene
 
 ### Notes
-
+[Methodology Mind Map.pdf](https://github.com/user-attachments/files/29222505/Methodology.Mind.Map.pdf)
 
 → More details in the my Lab notebook in Obsidian 
 
