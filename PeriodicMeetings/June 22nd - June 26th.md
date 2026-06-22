@@ -1,7 +1,7 @@
 #  Periodic Meeting & Week Notes 
 ## What I accomplished this week 
 
-- [ ] Mind map the entire methodology
+- [x] Methodology Mind Map
 - [ ] Design PCR protocols (w/ temperatures)
 - [ ] Explore Snap Gene
 
