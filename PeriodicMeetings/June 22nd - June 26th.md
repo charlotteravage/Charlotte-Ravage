@@ -2,7 +2,7 @@
 ## What I accomplished this week 
 
 - [x] Methodology Mind Map
-- [x] Design Primers
+- [x] Design Primers for OpuE
 - [ ] Design PCR protocols
 - [ ] Explore Snap Gene
 
