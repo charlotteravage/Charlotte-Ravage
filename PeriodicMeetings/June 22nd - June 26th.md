@@ -2,7 +2,8 @@
 ## What I accomplished this week 
 
 - [x] Methodology Mind Map
-- [ ] Design PCR protocols (w/ temperatures)
+- [x] Design Primers
+- [ ] Design PCR protocols
 - [ ] Explore Snap Gene
 
 ### Notes
