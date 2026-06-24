@@ -9,6 +9,8 @@
 ### Notes
 [Methodology Mind Map.pdf](https://github.com/user-attachments/files/29222505/Methodology.Mind.Map.pdf)
 
+<img width="2164" height="2674" alt="image" src="https://github.com/user-attachments/assets/9b78e8b8-05f6-4bf0-a470-ccef5a5d3861" />
+
 → More details in the my Lab notebook in Obsidian 
 
 ## What I plan to do next week
